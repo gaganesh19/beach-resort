@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+.ef-head {
+  text-align: center;
+  margin-top: 10px;
+}
+.ef-main {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  grid-gap: 30px 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.hori{
+    width: 20rem;
+    
+    margin:  auto;
+}
+.ee_main {
+  width: 300px;
+  height: 300px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 2px 10px #1200226c;
+  border-radius: 5px;
+  display: grid;
+  justify-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.ee_image {
+    padding-top: 10px;
+  width: 70px;
+}
+.ee_para {
+  margin: 0px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+}
+.ee_end{
+    margin-top:10px ;
+}
+
+
+
+
